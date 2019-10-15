@@ -13,7 +13,7 @@ cd C:\ProgramData\Microsoft\VisualStudio\Packages
 git clone https://github.com/ghuntley/visual-studio-for-windows-layouts _Instances
 ```
 
-- **Optional:** Open the `state.json` file and adjust the `installationPath` to different drive or folder.
+- **Optional:** Open the `state.json` file and adjust the `installationPath` to a different drive or folder.
 - Launch the Visual Studio Installer.
 - On the layout you wish to install, click retry and then click finish.
 
