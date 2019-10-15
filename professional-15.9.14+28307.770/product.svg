@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <style>.icon-canvas-transparent{opacity:0;fill:#f6f6f6}.brand-vside{fill:#865fc5}</style>
+  <path class="icon-canvas-transparent" d="M24 24H0V0h24v24z" id="canvas"/>
+  <path class="brand-vside" d="M6.187 11.546L11.699 17l3.3-1.404V4.904l-3.3-1.404-5.512 5.454-3.32-2.502L1.5 6.91v6.681l1.367.458 3.32-2.503zm5.512-4.155v5.718L7.906 10.25l3.793-2.859zm-8.832.872l2.009 1.987-2.009 1.988V8.263zM24 2.495v19.011L18 24 0 18.5v-.563l18 1.547V0l6 2.495z" id="iconBg"/>
+</svg>

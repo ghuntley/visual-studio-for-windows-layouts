@@ -1,0 +1,1203 @@
+{
+  "icon": { "mimeType": "image/svg+xml", "fileName": "product.svg" },
+  "updateDate": "2019-10-10T14:15:22.8769706Z",
+  "installDate": "2018-12-05T15:18:09.7461872Z",
+  "enginePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\resources\\app\\ServiceHub\\Services\\Microsoft.VisualStudio.Setup.Service",
+  "installationName": "VisualStudioPreview/16.4.0-pre.1.0+29319.158",
+  "catalogInfo": {
+    "id": "VisualStudioPreview/16.4.0-pre.1.0+29319.158",
+    "buildBranch": "d16.4",
+    "buildVersion": "16.4.29319.158",
+    "localBuild": "build-lab",
+    "manifestName": "VisualStudioPreview",
+    "manifestType": "installer",
+    "productDisplayVersion": "16.4.0 Preview 1.0",
+    "productLine": "Dev16",
+    "productLineVersion": "2019",
+    "productMilestone": "Preview",
+    "productMilestoneIsPreRelease": "True",
+    "productName": "Visual Studio",
+    "productPatchVersion": "0",
+    "productPreReleaseMilestoneSuffix": "1.0",
+    "productSemanticVersion": "16.4.0-pre.1.0+29319.158",
+    "requiredEngineVersion": "2.3.2276.2797"
+  },
+  "installationPath": "C:\\VisualStudio\\Enterprise\\16.4.0-pre.1.0+29319.158",
+  "launchParams": { "fileName": "Common7\\IDE\\devenv.exe" },
+  "installationVersion": "16.4.29319.158",
+  "channelId": "VisualStudio.16.Preview",
+  "channelUri": "https://aka.ms/vs/16/pre/channel",
+  "seed": { "languages": ["en-US"] },
+  "localizedResources": [
+    {
+      "language": "en-us",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "Scalable, end-to-end solution for teams of any size",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "zh-cn",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "面向任何规模团队提供的可缩放、端到端解决方案",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "zh-tw",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "可擴展，且適用於任何規模小組的全方位解決方案",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "cs-cz",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "Škálovatelné a kompletní řešení pro týmy libovolné velikosti",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "de-de",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "Skalierbare End-to-End-Lösung für Teams jeder Größe",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "es-es",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "Solución integral escalable para equipos de cualquier tamaño",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "fr-fr",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "Solution scalable de bout en bout pour les équipes de toutes tailles",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "it-it",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "Soluzione end-to-end scalabile per team di qualsiasi dimensione",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "ja-jp",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "あらゆる規模のチーム向けのスケーラブルなエンドツーエンド ソリューション",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "ko-kr",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "모든 규모의 팀에 사용할 수 있는 확장 가능한 엔드투엔드 솔루션",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "pl-pl",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "Skalowalne, kompleksowe rozwiązanie dla zespołów dowolnej wielkości",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "pt-br",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "Solução escalonável e de ponta a ponta para equipes de qualquer tamanho",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "ru-ru",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "Комплексное масштабируемое решение для команд любого размера.",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    },
+    {
+      "language": "tr-tr",
+      "title": "Visual Studio Enterprise 2019",
+      "description": "Her boyuttaki takımlar için ölçeklenebilir, uçtan uca çözüm",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=2041433"
+    }
+  ],
+  "channelResources": [
+    {
+      "language": "en-us",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "zh-cn",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "zh-tw",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "cs-cz",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "de-de",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "es-es",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "fr-fr",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "it-it",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "ja-jp",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "ko-kr",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "pl-pl",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "pt-br",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "ru-ru",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    },
+    {
+      "language": "tr-tr",
+      "title": "Preview",
+      "description": "Preview",
+      "channelSuffix": "Preview"
+    }
+  ],
+  "product": {
+    "id": "Microsoft.VisualStudio.Product.Enterprise",
+    "version": "16.4.29319.158",
+    "type": "Product",
+    "installed": true,
+    "supportsExtensions": null
+  },
+  "properties": {
+    "campaignId": "172417264.1511800484",
+    "setupEngineFilePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\vs_installershell.exe",
+    "nickname": "16.4.0-pre.1.0+29319.158",
+    "channelManifestId": "VisualStudio.16.Preview/16.4.0-pre.1.0+29319.158",
+    "canceled": "0"
+  },
+  "selectedPackages": [
+    {
+      "id": "Microsoft.VisualStudio.Component.CoreEditor",
+      "version": "16.1.28811.260",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Workload.CoreEditor",
+      "version": "16.0.28315.86",
+      "type": "Workload",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.NetCore.Component.SDK",
+      "version": "16.4.29318.75",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.NuGet",
+      "version": "16.1.28829.92",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.6.1.TargetingPack",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Roslyn.Compiler",
+      "version": "16.0.28714.129",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Roslyn.LanguageServices",
+      "version": "16.1.28829.92",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.FSharp",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.NetCore.Component.DevelopmentTools",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.FSharp.WebTemplates",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.WebToolsExtensions",
+      "version": "16.0.28621.142",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.DockerTools",
+      "version": "16.3.29103.31",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.NetCore.Component.Web",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.8.SDK",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.7.2.TargetingPack",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.ComponentGroup.DevelopmentPrerequisites",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.TypeScript.3.6",
+      "version": "16.0.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.JavaScript.TypeScript",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.JavaScript.Diagnostics",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Component.MSBuild",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.TextTemplating",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Component.Microsoft.VisualStudio.RazorExtension",
+      "version": "16.0.28714.129",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.IISExpress",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.SQL.ADAL",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.SQL.LocalDB.Runtime",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Common.Azure.Tools",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.SQL.CLR",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.MSODBC.SQL",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.MSSQL.CMDLnUtils",
+      "version": "16.0.28707.177",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.ManagedDesktop.Core",
+      "version": "16.4.29318.151",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.5.2.TargetingPack",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.5.TargetingPack",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.SQL.SSDT",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.SQL.DataSources",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Component.Microsoft.Web.LibraryManager",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.Web",
+      "version": "16.4.29318.151",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Web",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.IntelliCode",
+      "version": "0.1",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.TargetingPack",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.5.1.TargetingPack",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.6.TargetingPack",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.ComponentGroup.TargetingPacks.Common",
+      "version": "16.0.28516.191",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.Core.Component.SDK.2.1",
+      "version": "16.4.29318.75",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Component.Microsoft.VisualStudio.Web.AzureFunctions",
+      "version": "16.0.28714.129",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.AzureFunctions",
+      "version": "16.0.28621.142",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Azure.Compute.Emulator",
+      "version": "16.1.28810.153",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Azure.Storage.Emulator",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Azure.ClientLibs",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Azure.AuthoringTools",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.CloudExplorer",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Debugger.TimeTravel",
+      "version": "16.0.28714.129",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Debugger.Snapshot",
+      "version": "16.2.29003.222",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.Web.CloudTools",
+      "version": "16.2.29003.222",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.IntelliTrace.FrontEnd",
+      "version": "16.1.28829.92",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.DiagnosticTools",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.EntityFramework",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.LiveUnitTesting",
+      "version": "16.1.28811.260",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.AspNet45",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.AppInsights.Tools",
+      "version": "16.2.28917.182",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.WebDeploy",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Debugger.JustInTime",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Component.Microsoft.VisualStudio.LiveShare",
+      "version": "1.0.905.0",
+      "type": "Component",
+      "extension": true,
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Wcf.Tooling",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.6.2.TargetingPack",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.7.TargetingPack",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.7.1.TargetingPack",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.ClassDesigner",
+      "version": "16.0.28528.71",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.GraphDocument",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.CodeMap",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Workload.NetWeb",
+      "version": "16.4.29313.120",
+      "type": "Workload",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.Azure.Prerequisites",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Azure.Waverton.BuildTools",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Azure.Waverton",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Component.Azure.DataLake.Tools",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Azure.ResourceManager.Tools",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.Azure.ResourceManager.Tools",
+      "version": "16.0.28528.71",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.Azure.CloudServices",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Azure.ServiceFabric.Tools",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Workload.Azure",
+      "version": "16.4.29313.120",
+      "type": "Workload",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.CoreIde",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.Tools.x86.x64",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Graphics.Tools",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.DiagnosticTools",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Windows10SDK.18362",
+      "version": "16.1.28829.92",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Node.Tools",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Workload.Node",
+      "version": "16.1.28825.262",
+      "type": "Workload",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.ManagedDesktop.Prerequisites",
+      "version": "16.4.29318.151",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.ComponentGroup.Blend",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.PortableLibrary",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.MSIX.Packaging",
+      "version": "16.4.29318.151",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Workload.ManagedDesktop",
+      "version": "16.4.29313.120",
+      "type": "Workload",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.Redist.14.Latest",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.ArchitectureTools.Native",
+      "version": "16.0.28621.142",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.NativeDesktop.Core",
+      "version": "16.2.29012.281",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.WebToolsExtensions.CMake",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.CMake.Project",
+      "version": "16.3.29103.31",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.ATL",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.TestAdapterForBoostTest",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.TestAdapterForGoogleTest",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Windows10SDK.17763",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Windows10SDK.16299",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Workload.NativeDesktop",
+      "version": "16.3.29207.166",
+      "type": "Workload",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.Component.NetFX.Native",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.UWP.NetCoreAndStandard",
+      "version": "16.3.29102.218",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Graphics",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.UWP.Xamarin",
+      "version": "16.2.29020.229",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.UWP.Support",
+      "version": "16.4.29318.151",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.Tools.ARM64",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.UWP.VC.ARM64",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.Tools.ARM",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.UWP.VC",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Workload.Universal",
+      "version": "16.3.29102.218",
+      "type": "Workload",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Component.OpenJDK",
+      "version": "16.1.28811.260",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.MonoDebugger",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Merq",
+      "version": "16.2.29012.281",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Component.Xamarin.RemotedSimulator",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.WebToolsExtensions.TemplateEngine",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Component.Xamarin",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Workload.NetCrossPlat",
+      "version": "16.4.29313.120",
+      "type": "Workload",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Component.Android.SDK25.Private",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Component.Android.NDK.R16B",
+      "version": "16.4.29318.151",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Component.Ant",
+      "version": "1.9.3.8",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Component.MDD.Android",
+      "version": "16.0.28517.75",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Workload.NativeMobile",
+      "version": "16.1.28811.260",
+      "type": "Workload",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VSSDK",
+      "version": "16.0.28315.86",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.ComponentGroup.VisualStudioExtension.Prerequisites",
+      "version": "16.4.29318.151",
+      "type": "Component",
+      "selectedState": "GroupSelected",
+      "userSelectedState": "Implicit"
+    },
+    {
+      "id": "Microsoft.Component.CodeAnalysis.SDK",
+      "version": "16.2.29003.222",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Workload.VisualStudioExtension",
+      "version": "16.3.29207.166",
+      "type": "Workload",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Workload.NetCoreTools",
+      "version": "16.4.29313.120",
+      "type": "Workload",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Component.GitHub.VisualStudio",
+      "version": "2.10.7.8114",
+      "type": "Component",
+      "extension": true,
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.Git",
+      "version": "16.0.28625.61",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.Net.Core.Component.SDK.2.2",
+      "version": "16.4.29318.75",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.NetCore.ComponentGroup.DevelopmentTools.2.1",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.NetCore.ComponentGroup.Web.2.1",
+      "version": "16.3.29207.166",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.6.1.SDK",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.6.2.SDK",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.7.SDK",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.7.1.SDK",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.Net.Component.4.7.2.SDK",
+      "version": "16.4.29313.120",
+      "type": "Component",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    },
+    {
+      "id": "Microsoft.VisualStudio.Product.Enterprise",
+      "version": "16.4.29319.158",
+      "type": "Product",
+      "selectedState": "IndividuallySelected",
+      "userSelectedState": "Explicit"
+    }
+  ],
+  "releaseNotes": "https://go.microsoft.com/fwlink/?LinkId=660894#16.4.0-pre.1.0",
+  "thirdPartyNotices": "https://go.microsoft.com/fwlink/?LinkId=660909"
+}
