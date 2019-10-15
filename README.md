@@ -19,13 +19,11 @@ git clone https://github.com/ghuntley/visual-studio-for-windows-layouts _Instanc
 ## contributing
 
 1. Format the `state.json` with a JSON pretty printer.
-2. Adjust `"installationPath":` to follow the convention `"C:\\VisualStudio\\{{Edition}}\\{catalogInfo.productSemanticVersion}"` ie. `C:\\VisualStudio\\Enterprise\\15.9.14+28307.770`
+2. Adjust `"installationPath":` to follow the convention `"C:\\VisualStudio\\{Edition}\\{catalogInfo.productSemanticVersion}"` ie. `C:\\VisualStudio\\Enterprise\\15.9.14+28307.770`
 3. Adjust `"properties.nickname:"` to be `"{catalogInfo.productSemanticVersion}"` ie. `15.9.14+28307.770`
-4. Rename the instance folder to be `"{catalogInfo.productSemanticVersion}"` ie. `15.9.14+28307.770`
+4. Rename the instance folder to be `"{Edition}-{catalogInfo.productSemanticVersion}"` ie. `professional-15.9.14+28307.770`
 5. Send in the pull-request
 
 ## disclaimer
 
-This approach is not officially supported my Microsoft. Any MSI/EXE shared components will still roll forward and older versions cannot be side-by-side installed.
-
-https://twitter.com/mrhestew/status/1137072701867061248
+This approach is not officially supported my Microsoft. Any MSI/EXE shared components will still roll forward and older versions cannot be side-by-side installed. See https://twitter.com/mrhestew/status/1137072701867061248
