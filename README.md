@@ -6,15 +6,15 @@ This community maintained repository allows you to install a specific `productSe
 
 ## usage
 
-1. As an administrator, clone this repository as `C:\ProgramData\Microsoft\VisualStudio\Packages\_Instances`
+- Cherry pick a particular version and place in `C:\ProgramData\Microsoft\VisualStudio\Packages\_Instances` or as an administrator, after uninstalling all editions of visual studio for windows, clone this repository as `C:\ProgramData\Microsoft\VisualStudio\Packages\_Instances`
 
 ```bash
 cd C:\ProgramData\Microsoft\VisualStudio\Packages
 git clone https://github.com/ghuntley/visual-studio-for-windows-layouts _Instances
 ```
 
-2. Launch the Visual Studio Installer.
-3. On the layout you wish to install, click retry and then click finish.
+- Launch the Visual Studio Installer.
+- On the layout you wish to install, click retry and then click finish.
 
 ## contributing
 
