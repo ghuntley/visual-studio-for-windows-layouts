@@ -2,7 +2,7 @@
 
 Whilst Microsoft offers older versions of Visual Studio for download [via my.visualstudio.com](https://t.co/HJgKTpg5mq?amp=1), Microsoft do not offer a way to install a specific patch release. Having the latest of a minor is generally not enough, as new revisions/patch releases can break behaviors. Personally, I've lost _days_ to _weeks_ levels of productivity this year with Visual Studio for Windows after upgrading and then being stuck unable to re-install a specific, known working version.
 
-This community maintained repository allows you to install a specific `productSemanticVersion` of Visual Studio. 
+This community maintained repository allows you to download and install a specific `productSemanticVersion` of Visual Studio. 
 
 ## usage
 
